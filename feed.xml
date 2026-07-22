@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>namor.com.ar</title>
-    <link href="https://namor.com.ar/feed.xml" rel="self" />
-    <link href="https://namor.com.ar" />
+    <link href="https://saidnamor.github.io/namorweb/feed.xml" rel="self" />
+    <link href="https://saidnamor.github.io/namorweb" />
     <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>SN</name>
     </author>
-    <id>https://namor.com.ar</id>
+    <id>https://saidnamor.github.io/namorweb</id>
 
 </feed>
