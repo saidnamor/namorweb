@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "namor.com.ar",
+    "description": "",
+    "home_page_url": "https://namor.com.ar",
+    "feed_url": "https://namor.com.ar/feed.json",
+    "user_comment": "",
+    "icon": "https://namor.com.ar/media/website/Logo.jpg",
+    "author": {
+        "name": "SN"
+    },
+    "items": [
+    ]
+}

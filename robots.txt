@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://namor.com.ar/sitemap.xml
